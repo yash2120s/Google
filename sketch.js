@@ -5,7 +5,7 @@ var search;
 function preload()
 {
 	//load images here
- bg = loadImage("bg.png")
+ bg = loadImage("images/bg.png")
 }
 
 function setup() {

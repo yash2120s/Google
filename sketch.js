@@ -18,8 +18,8 @@ back.addImage(bg)
   input = createInput("Type to search");
  button = createButton('Search');
 
-  input.position(displayWidth/2+250, displayHeight/2+50);
-  button.position(displayWidth/2+300,displayHeight/2+80);
+  input.position(displayWidth/2+250, displayHeight/2+80);
+  button.position(displayWidth/2+300,displayHeight/2+120);
 
 }
 
